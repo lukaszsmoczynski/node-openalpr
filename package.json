@@ -28,8 +28,7 @@
   },
   "dependencies": {
     "fs-extra": "^0.23.1",
-    "nan": "^2.0.5",
-    "node-pre-gyp": "https://github.com/mapbox/node-pre-gyp.git"
+    "nan": "^2.0.5"
   },
   "main": "./src/openalpr",
   "binary": {
